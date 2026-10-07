@@ -1,0 +1,7 @@
+# Python 3.10–3.12 recommended. On Windows, install dlib first — see README.md.
+streamlit>=1.28.0
+opencv-python>=4.8.0
+numpy>=1.24.0,<3
+Pillow>=10.0.0
+face-recognition-models>=0.3.0
+Click>=6.0
